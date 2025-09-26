@@ -17,11 +17,9 @@
     ],
     "License": "CC0",
     "Funding": [
-        "Agence Nationale de la Recherche: ",
-        "- AutoTime (ANR-16-CE37-0004-04) granted to Virginie van Wassenhove",
-        "- meegBIDS.fr (ANR-19-DATA-0023), granted to Alexandre Gramfort (Coordinator), Sophie Herbst, Maximilien Chaumon, and Virginie van Wassenhove (collaborators)",
-        "European Union’s Horizon 2020 research and innovation program:",
-        "- FET Experience (grant agreement No. 101017727), to Virginie van Wassenhovegrant agreement No. 101017727, FET Experience granted to Virginie van Wassenhove"
+        "Agence Nationale de la Recherche: AutoTime (ANR-16-CE37-0004-04) granted to Virginie van Wassenhove",
+        "Agence Nationale de la Recherche: meegBIDS.fr (ANR-19-DATA-0023), granted to Alexandre Gramfort (Coordinator), Sophie Herbst, Maximilien Chaumon, and Virginie van Wassenhove (collaborators)",
+        "European Union’s Horizon 2020 research and innovation program: FET Experience (grant agreement No. 101017727), to Virginie van Wassenhovegrant agreement No. 101017727, FET Experience granted to Virginie van Wassenhove"
     ],
     "Acknowledgements": "NeuroSpin, NeuroPSI, UNICOG, Cognition & Brain Dynamics, and the Mind Lab are part of the DIM C-BRAINS, funded by the Conseil Régional d’Ile-de-France. We would also like to thank the NeuroSpin MEG platform staff, and in particular Leila Azizi, for their support during data acquisition.",
     "HowToAcknowledge": "Please cite the dataset and the corresponding preprint or published version:\nhttps://www.biorxiv.org/content/10.1101/2025.05.12.653390v1"
