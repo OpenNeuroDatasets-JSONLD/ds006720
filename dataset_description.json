@@ -26,5 +26,6 @@
     "ReferencesAndLinks": [
         "Alpha power indexes working memory load for durations Sophie K. Herbst, Mangione Izem, Charbel-Raphaël Segerie, Richard Höchenberger, Tadeusz Kononowicz, Alexandre Gramfort, Virginie van Wassenhove bioRxiv 2025.05.12.653390; doi: https://doi.org/10.1101/2025.05.12.653390",
         "https://www.biorxiv.org/content/10.1101/2025.05.12.653390v1"
-    ]
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006720.v1.0.0"
 }
