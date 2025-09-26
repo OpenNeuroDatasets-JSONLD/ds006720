@@ -1,0 +1,8 @@
+{
+    "Name": "Alpha power indexes working memory load for durations",
+    "BIDSVersion": "1.6.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "[Sophie K. Herbst,Izem Mangione, Charbel-Raphaël Segerie, Richard Höchenberger, Tadeusz Kononowicz, Alexandre Gramfort & Virginie van Wassenhove]"
+    ]
+}
