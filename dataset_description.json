@@ -4,5 +4,9 @@
     "DatasetType": "raw",
     "Authors": [
         "[Sophie K. Herbst,Izem Mangione, Charbel-Raphaël Segerie, Richard Höchenberger, Tadeusz Kononowicz, Alexandre Gramfort & Virginie van Wassenhove]"
-    ]
+    ],
+    "EthicsApprovals": [
+        "Prior to the study, all participants signed a written informed consent in accordance with the Ethics Committee on Human Research at Neurospin: CPP n° 100049 (Gif-sur-Yvette, France), and the Declaration of Helsinki (2013)."
+    ],
+    "License": "CC0"
 }
