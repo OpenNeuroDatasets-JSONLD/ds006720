@@ -3,13 +3,14 @@
     "BIDSVersion": "1.6.0",
     "DatasetType": "raw",
     "Authors": [
-        "Sophie K. Herbst",
-        "Izem Mangione",
-        "Charbel-Raphaël Segerie",
-        "Richard Höchenberger",
-        "Tadeusz Kononowicz",
-        "Alexandre Gramfort",
-        "Virginie van Wassenhove"
+        "Sophie K. Herbst [1]",
+        "Izem Mangione [1]",
+        "Charbel-Raphaël Segerie [2]",
+        "Richard Höchenberger [2]",
+        "Tadeusz Kononowicz [1, 3, 4]",
+        "Alexandre Gramfort [2]",
+        "Virginie van Wassenhove [1]",
+        "[1] Cognitive Neuroimaging Unit, INSERM, CEA, Université Paris-Saclay, NeuroSpin, 91191 Gif/Yvette, France [2] Inria, CEA, Université Paris-Saclay, Palaiseau, France [3] Institute of Psychology, The Polish Academy of Sciences, ul. Jaracza 1, 00-378 Warsaw, Poland [4] Institut NeuroPSI - UMR9197 CNRS Université Paris-Saclay"
     ],
     "EthicsApprovals": [
         "Prior to the study, all participants signed a written informed consent in accordance with the Ethics Committee on Human Research at Neurospin: CPP n° 100049 (Gif-sur-Yvette, France), and the Declaration of Helsinki (2013)."
