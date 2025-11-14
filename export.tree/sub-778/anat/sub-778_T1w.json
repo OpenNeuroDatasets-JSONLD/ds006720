@@ -1,0 +1,93 @@
+{
+    "AnatomicalLandmarkCoordinates": {
+        "LPA": [
+            5.985678875759049,
+            110.20037973235264,
+            100.15832531611883
+        ],
+        "NAS": [
+            77.38781286845594,
+            204.62736165267899,
+            141.07215402411933
+        ],
+        "RPA": [
+            146.0485168648851,
+            109.97915525284142,
+            103.94214995090553
+        ]
+    },
+    "Modality": "MR",
+    "MagneticFieldStrength": 3,
+    "ImagingFrequency": 123.255,
+    "Manufacturer": "Siemens",
+    "ManufacturersModelName": "Prisma_fit",
+    "InstitutionName": "NeuroSpin",
+    "InstitutionalDepartmentName": "Department",
+    "InstitutionAddress": "Street N306,SACLAY,IdF,FR,91400",
+    "DeviceSerialNumber": "67069",
+    "StationName": "MRCTRIO",
+    "SeriesInstanceUID": "1.3.12.2.1107.5.2.43.67069.2019061917285823774523423.0.0.0",
+    "StudyInstanceUID": "1.3.12.2.1107.5.2.43.67069.30000019061707190947700000028",
+    "StudyID": "1",
+    "BodyPartExamined": "BRAIN",
+    "PatientPosition": "HFS",
+    "ProcedureStepDescription": "Protocoles^Anat_MEG",
+    "SoftwareVersions": "syngo MR E11",
+    "MRAcquisitionType": "3D",
+    "SeriesDescription": "mprage_sag_T1_160sl",
+    "ProtocolName": "mprage_sag_T1_160sl",
+    "ScanningSequence": "GR\\IR",
+    "SequenceVariant": "SK\\SP\\MP\\OSP",
+    "ScanOptions": "IR\\PFP",
+    "SequenceName": "*tfl3d1_16ns",
+    "ImageType": [
+        "ORIGINAL",
+        "PRIMARY",
+        "M",
+        "ND",
+        "NORM"
+    ],
+    "SeriesNumber": 2,
+    "AcquisitionNumber": 1,
+    "SliceThickness": 1,
+    "SAR": 0.047762,
+    "EchoTime": 0.00298,
+    "RepetitionTime": 2.3,
+    "InversionTime": 0.9,
+    "FlipAngle": 9,
+    "PartialFourier": 0.875,
+    "BaseResolution": 256,
+    "ShimSetting": [
+        -643,
+        2291,
+        -808,
+        306,
+        31,
+        -326,
+        25,
+        -10
+    ],
+    "TxRefAmp": 228.529,
+    "PhaseResolution": 0.96,
+    "ReceiveCoilName": "HeadNeck_64",
+    "ReceiveCoilActiveElements": "HC1-7;NC1",
+    "PulseSequenceDetails": "%SiemensSeq%\\tfl",
+    "ConsistencyInfo": "N4_VE11C_LATEST_20160120",
+    "PercentPhaseFOV": 93.75,
+    "PercentSampling": 96,
+    "PhaseEncodingSteps": 202,
+    "AcquisitionMatrixPE": 230,
+    "PixelBandwidth": 240,
+    "DwellTime": 8.2e-06,
+    "ImageOrientationPatientDICOM": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        -1
+    ],
+    "InPlanePhaseEncodingDirectionDICOM": "ROW",
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20211006"
+}
